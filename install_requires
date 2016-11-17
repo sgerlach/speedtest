@@ -1,0 +1,8 @@
+install_requires=[
+	'os',
+	'sys',
+	'csv',
+	'datetime',
+	'time',
+	'elasticsearch'
+]
